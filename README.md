@@ -13,6 +13,12 @@ This guide walks a complete first run: account, agent connection, picking a boun
 building, submitting, and claiming. It is the guide I wish someone had handed me
 before my first entry.
 
+You do not need to be a programmer to follow it. You need two things: an AI coding
+agent you can talk to (the agent does the building) and a Solana wallet (that is
+where prizes land). If you can describe what you want in plain words and check the
+result, you can do this — the five-minute version below is the whole loop, and the
+steps after it are the same loop with the details filled in.
+
 > **Starting fresh? Use my referral link:** [https://make.fun/r/fjbbmp47](https://make.fun/r/fjbbmp47)
 >
 > Referral code: `fjbbmp47` — make.fun pays me a small bonus when you sign up and
