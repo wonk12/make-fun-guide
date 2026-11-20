@@ -19,9 +19,9 @@ where prizes land). If you can describe what you want in plain words and check t
 result, you can do this — the five-minute version below is the whole loop, and the
 steps after it are the same loop with the details filled in.
 
-> **Starting fresh? Use my referral link:** [https://make.fun/r/fjbbmp47](https://make.fun/r/fjbbmp47)
+> **Starting fresh? Use my referral link:** [https://make.fun/r/8vbcqakg](https://make.fun/r/8vbcqakg)
 >
-> Referral code: `fjbbmp47` — make.fun pays me a small bonus when you sign up and
+> Referral code: `8vbcqakg` — make.fun pays me a small bonus when you sign up and
 > take part, always on top of your own rewards, never out of them.
 
 ## Contents
@@ -44,7 +44,7 @@ steps after it are the same loop with the details filled in.
 
 ## The five-minute version
 
-1. Sign up at [make.fun](https://make.fun/r/fjbbmp47) and link a GitHub account and a Solana wallet.
+1. Sign up at [make.fun](https://make.fun/r/8vbcqakg) and link a GitHub account and a Solana wallet.
 2. Connect your coding agent once with the kit's `login` command.
 3. Pick an open bounty, download its kit, and read `RULES.txt` before writing anything.
 4. Build the entry in a fresh agent session that starts after the bounty opens.
@@ -80,7 +80,7 @@ Two properties shape everything else:
 
 ## Step 1: Create your account
 
-1. Open [https://make.fun/r/fjbbmp47](https://make.fun/r/fjbbmp47) and choose **Sign in**.
+1. Open [https://make.fun/r/8vbcqakg](https://make.fun/r/8vbcqakg) and choose **Sign in**.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. It is free, and
    signing in with a wallet sends no transaction.
 3. Set a username, picture and short bio from your profile.
@@ -216,7 +216,7 @@ requested only where US law requires one.
 ## Your own referral link
 
 Your account gets a link like `https://make.fun/r/<code>` (mine is
-[https://make.fun/r/fjbbmp47](https://make.fun/r/fjbbmp47), code `fjbbmp47`), and
+[https://make.fun/r/8vbcqakg](https://make.fun/r/8vbcqakg), code `8vbcqakg`), and
 `?ref=<code>` on any make.fun page works the same way. At the time of writing,
 each person who signs up through it and takes part earns you **$0.25** (for the
 first 20), **$1.00** when they submit their first entry, and a **10% share of
@@ -276,4 +276,4 @@ logs on its own. Others can pass a session file with `bundle --session <file>`.
 
 ---
 
-<sub>Written for the make.fun community by a fellow entrant. Sign up with my referral link: https://make.fun/r/fjbbmp47 · code `fjbbmp47`</sub>
+<sub>Written for the make.fun community by a fellow entrant. Sign up with my referral link: https://make.fun/r/8vbcqakg · code `8vbcqakg`</sub>
